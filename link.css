@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Comfortaa:wght@500&family=Exo+2:wght@200&family=Josefin+Sans:ital,wght@1,300&family=Montserrat:wght@200&family=Quicksand&family=Satisfy&family=Titillium+Web:wght@200&family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Comfortaa:wght@500&family=Exo+2:wght@200&family=Josefin+Sans:ital,wght@1,300&family=Montserrat:wght@200&family=Quicksand&family=Rajdhani:wght@300;400&family=Satisfy&family=Titillium+Web:wght@200&family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Comfortaa:wght@500&family=Exo+2:wght@200&family=Josefin+Sans:ital,wght@1,300&family=Lusitana&family=Montserrat:wght@200&family=Quicksand&family=Rajdhani:wght@300;400&family=Satisfy&family=Titillium+Web:wght@200&family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Comfortaa:wght@500&family=Exo+2:wght@200&family=Gentium+Book+Basic&family=Josefin+Sans:ital,wght@1,300&family=Lusitana&family=Montserrat:wght@200&family=Quicksand&family=Rajdhani:wght@300;400&family=Satisfy&family=Titillium+Web:wght@200&family=Vollkorn&display=swap');
+
+
+
+.navbar { 
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 23px;
+}
+.nav-item {
+  margin-left: 20px;
+}
+
+.btn-outline-success { 
+  border-color: #c82b2b;
+  color:#c82b2b;
+}
+
+.btn-outline-success:hover { 
+  background-color: #c82b2b;
+  border-color: #c82b2b;
+}
+
+
+
+.card {
+    width: 450px;
+    margin:30px;
+    
+}
+
+.card-group {
+ 
+}
+
+* {box-sizing: border-box;}
+
